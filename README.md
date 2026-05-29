@@ -1,178 +1,177 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ekambaranath&fontSize=52&fontColor=fff&fontAlignY=55&animation=twinkling&desc=ML%20Engineer%20%E2%80%A2%20AI%20Researcher%20%E2%80%A2%20Builder&descSize=17&descColor=a0b4c8&descAlignY=76" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=Core+ML+%E2%86%92+LLMs+%E2%86%92+Agentic+AI+%F0%9F%9A%80;Fine-tuning+Llama3+for+Legal+NLP+%F0%9F%A7%A0;Building+Self-Healing+RAG+Systems+%F0%9F%A9%BA;Causal+Reasoning+%2B+Multi-Agent+AI+%F0%9F%95%B5%EF%B8%8F)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekamtirunagiri)
-[![Portfolio](https://img.shields.io/badge/%20Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ekambaranathportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekambaranath)
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=3&section=header" width="100%"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<table width="100%"><tr>
+<td valign="bottom">
 
-```python
-class Ekambaranath:
-    name       = "Ekambaranath"
-    pronouns   = "he/him"
-    location   = "India 🇮🇳"
-    focus      = ["Core ML", "LLMs & Fine-tuning", "RAG", "Agentic AI"]
-    stack      = ["Python", "PyTorch", "HuggingFace 🤗", "LangChain", "Jupyter"]
-    building   = "Self-healing AI · Causal agents · Legal LLMs"
-    portfolio  = "https://ekambaranathportfolio.netlify.app/"
-```
+<sub><sup>AI ENGINEER &nbsp;/&nbsp; INDIA &nbsp;/&nbsp; HE·HIM</sup></sub>
 
----
+# Ekambara**nath**
 
-## 🗂️ Projects
+<sub>`core ml → llms → rag → agentic ai`</sub>
+
+</td>
+<td align="right" valign="bottom">
+
+| | |
+|---|---|
+| **10** repos | **3** stars |
+| **71** commits | Python · Jupyter |
+
+</td>
+</tr></table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e2e1da&height=1&section=header" width="100%"/>
 
 <br/>
 
-## ⚙️ Core ML
+## About
 
-> Classical ML, deep learning, computer vision & biomedical AI.
+> AI engineer with a **futuristic mindset** — I design intelligent systems that go beyond prediction. I care about building AI that can **reason, self-correct, and act autonomously**. From strong ML foundations to frontier LLM fine-tuning, self-healing RAG pipelines, and causal agents, my work sits at the intersection of rigorous engineering and bold AI research.
 
-<table>
+| Currently building | Mindset |
+|---|---|
+| Self-healing AI pipelines & causal reasoning agents | Systems thinker · Long-term oriented · Research-driven |
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekamtirunagiri)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat-square&logo=googlechrome&logoColor=white)](https://ekambaranathportfolio.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/ekambaranath)
+
+<br/>
+
+---
+
+## `01` — Core ML
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🫀 Heart Disease Classification
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/Heart_Disease_Classification)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**[Heart\_Disease\_Classification](https://github.com/ekambaranath/Heart_Disease_Classification)**
 
-Binary classification model using clinical features to predict heart disease risk. Covers EDA, feature engineering, and model comparison.
+Binary classification on clinical features — EDA, feature engineering, model benchmarking.
+
+`Jupyter` &nbsp; ![Classification](https://img.shields.io/badge/Classification-fdf3e3?style=flat-square&color=fdf3e3&labelColor=fdf3e3&logoColor=92570a) [![Classification](https://img.shields.io/badge/Classification-92570a?style=flat-square&labelColor=fdf3e3&color=fdf3e3)](https://github.com/ekambaranath/Heart_Disease_Classification)
 
 </td>
-<td width="50%">
+<td width="33%">
 
-### 📈 Gold Price Prediction
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/gold_price_prediction)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**[gold\_price\_prediction](https://github.com/ekambaranath/gold_price_prediction)**
 
-Time-series regression model forecasting gold prices using macroeconomic indicators and feature correlation analysis.
+Time-series regression forecasting gold prices using macroeconomic indicators.
+
+`Jupyter` &nbsp; [![Regression](https://img.shields.io/badge/Regression-92570a?style=flat-square&labelColor=fdf3e3&color=fdf3e3)](https://github.com/ekambaranath/gold_price_prediction)
+
+</td>
+<td width="33%">
+
+**[Cancer\_CNN\_Architecture](https://github.com/ekambaranath/Histopathological_cancer_detection_using_CNN_Architecture)**
+
+CNN for histopathological slide classification — malignant tissue detection from microscopy.
+
+`Jupyter` &nbsp; [![Vision](https://img.shields.io/badge/Vision-92570a?style=flat-square&labelColor=fdf3e3&color=fdf3e3)](https://github.com/ekambaranath/Histopathological_cancer_detection_using_CNN_Architecture)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 
-### 🔬 Cancer Detection (CNN)
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/Histopathological_cancer_detection_using_CNN_Architecture)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-CNN architecture for histopathological slide classification — detecting malignant tissue from pathology images.
-
-</td>
-<td width="50%">
-
-### 🧠 Brain MRI Segmentation
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/brain-MRI-segmentation)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**[brain-MRI-segmentation](https://github.com/ekambaranath/brain-MRI-segmentation)**
 
 Deep learning segmentation of brain MRI scans for precise tumor boundary localization.
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 👥 Customer Segmentation
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/customer-segmentation)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-Unsupervised clustering (K-Means, DBSCAN) to segment customers by behavioral and demographic patterns.
+`Jupyter` &nbsp; [![Segmentation](https://img.shields.io/badge/Segmentation-92570a?style=flat-square&labelColor=fdf3e3&color=fdf3e3)](https://github.com/ekambaranath/brain-MRI-segmentation)
 
 </td>
-<td></td>
-</tr>
-</table>
+<td width="33%">
 
----
+**[customer-segmentation](https://github.com/ekambaranath/customer-segmentation)**
 
-<br/>
+Unsupervised clustering to segment customers by behavioral and demographic patterns.
 
-## 🤖 LLMs & Fine-tuning
-
-> Instruction tuning, domain adaptation, and large language model workflows.
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚖️ Finetuning Llama 3 — Legal NLP
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/Finetuning_Llama3_legal)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)
-
-Fine-tuned Llama 3 on legal domain datasets for contract understanding, clause classification, and legal Q&A.
+`Jupyter` &nbsp; [![Clustering](https://img.shields.io/badge/Clustering-92570a?style=flat-square&labelColor=fdf3e3&color=fdf3e3)](https://github.com/ekambaranath/customer-segmentation)
 
 </td>
-<td width="50%">
-
-### 🔜 More Coming Soon...
-
-Currently exploring:
-- RLHF & DPO alignment techniques
-- LoRA / QLoRA efficient fine-tuning
-- Domain-specific LLM benchmarking
-
-</td>
+<td width="33%"></td>
 </tr>
 </table>
 
 ---
 
-<br/>
+## `02` — LLMs & Fine-tuning
 
-## 🚀 Modern AI — RAG & Agentic AI
+<table width="100%">
+<tr>
+<td width="66%">
 
-> Retrieval-Augmented Generation pipelines, autonomous agents & causal reasoning.
+**[Finetuning\_Llama3\_legal](https://github.com/ekambaranath/Finetuning_Llama3_legal)**
 
-<table>
+Fine-tuned Llama 3 on legal domain data — contract understanding, clause classification & legal Q&A using instruction tuning.
+
+`Jupyter` &nbsp; [![Fine-tuning](https://img.shields.io/badge/Fine--tuning-4c3db5?style=flat-square&labelColor=eeeefe&color=eeeefe)](https://github.com/ekambaranath/Finetuning_Llama3_legal)
+
+</td>
+<td width="33%">
+
+**In progress**
+
+```
+○  LoRA / QLoRA
+○  DPO alignment  
+○  Domain benchmarking
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — Modern AI — RAG & Agentic
+
+<table width="100%">
 <tr>
 <td width="50%">
 
-### 🩺 selfHealingRAG ⭐
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/selfHealingRAG)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**[selfHealingRAG](https://github.com/ekambaranath/selfHealingRAG)** &nbsp; ⭐ 1
 
-A RAG pipeline with built-in self-healing — detects retrieval failures and autonomously corrects them to maintain answer quality.
+RAG pipeline that detects retrieval failures and autonomously corrects them to maintain answer quality under distribution shift.
+
+`Python` &nbsp; [![RAG](https://img.shields.io/badge/RAG-0d7a5f?style=flat-square&labelColor=e6f5f1&color=e6f5f1)](https://github.com/ekambaranath/selfHealingRAG)
 
 </td>
 <td width="50%">
 
-### 🕵️ causal_RCA_Agent ⭐
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/causal_RCA_Agent)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**[causal\_RCA\_Agent](https://github.com/ekambaranath/causal_RCA_Agent)** &nbsp; ⭐ 1
 
 Agentic root cause analysis using causal inference graphs — autonomously diagnoses complex system failures.
 
+`Python` &nbsp; [![Agents](https://img.shields.io/badge/Agents-0d7a5f?style=flat-square&labelColor=e6f5f1&color=e6f5f1)](https://github.com/ekambaranath/causal_RCA_Agent)
+
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌐 emergentSocietySimulator ⭐
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/emergentSocietySimulator)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**[emergentSocietySimulator](https://github.com/ekambaranath/emergentSocietySimulator)** &nbsp; ⭐ 1
 
-Multi-agent simulation where LLM-driven agents develop emergent social norms, economies, and behaviors.
+Multi-agent simulation where LLM-driven agents develop emergent social norms, economies, and behaviors over time.
+
+`Python` &nbsp; [![Multi-agent](https://img.shields.io/badge/Multi--agent-0d7a5f?style=flat-square&labelColor=e6f5f1&color=e6f5f1)](https://github.com/ekambaranath/emergentSocietySimulator)
 
 </td>
 <td width="50%">
 
-### 💬 Interactive RAG Chatbot
-[![Repo](https://img.shields.io/badge/View%20Repo-161B22?style=flat-square&logo=github)](https://github.com/ekambaranath/interactive_RAG_chatbot)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**[interactive\_RAG\_chatbot](https://github.com/ekambaranath/interactive_RAG_chatbot)**
 
-Conversational chatbot with RAG backbone — retrieves context dynamically for accurate, grounded responses.
+Conversational chatbot with RAG backbone — dynamically retrieves context for grounded, accurate responses.
+
+`Python` &nbsp; [![RAG](https://img.shields.io/badge/RAG-0d7a5f?style=flat-square&labelColor=e6f5f1&color=e6f5f1)](https://github.com/ekambaranath/interactive_RAG_chatbot)
 
 </td>
 </tr>
@@ -180,47 +179,19 @@ Conversational chatbot with RAG backbone — retrieves context dynamically for a
 
 ---
 
-## 📊 GitHub Stats
+## `04` — Stack
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ekambaranath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=c9d1d9&rank_icon=github&include_all_commits=true"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekambaranath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=c9d1d9&langs_count=6"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ekambaranath&theme=tokyo-night&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=ffffff&area=true&area_color=1a3a5c&hide_border=true" width="96%"/>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*"Build systems that learn, adapt, and reason — not just predict."*
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0a0a0a?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0a0a0a?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0a0a0a?style=flat-square&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=flat-square&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat-square&logo=opencv&logoColor=white)
+![VectorDB](https://img.shields.io/badge/Vector_DBs-0a0a0a?style=flat-square&logo=databricks&logoColor=white)
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=ekambaranath&color=4FC3F7&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e2e1da&height=1" width="100%"/>
 
-</div>
+<sub><sup>build systems that reason, not just predict — ekambaranath · 2026</sup></sub>
