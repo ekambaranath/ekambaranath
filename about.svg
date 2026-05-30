@@ -1,0 +1,34 @@
+<svg width="860" height="220" viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="860" height="220" rx="12" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Section label -->
+  <text x="24" y="30" font-family="'Courier New',monospace" font-size="12" fill="#4FC3F7" letter-spacing="2">about.py</text>
+  <line x1="110" y1="26" x2="836" y2="26" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Code block -->
+  <text x="24" y="62" font-family="'Courier New',monospace" font-size="13" fill="#F97583">class </text>
+  <text x="72" y="62" font-family="'Courier New',monospace" font-size="13" fill="#79B8FF">EkambaranathTirunagiri</text>
+  <text x="320" y="62" font-family="'Courier New',monospace" font-size="13" fill="#e6edf3">:</text>
+
+  <text x="44" y="86" font-family="'Courier New',monospace" font-size="12" fill="#444c56"># identity</text>
+  <text x="44" y="106" font-family="'Courier New',monospace" font-size="12" fill="#B392F0">name</text>
+  <text x="110" y="106" font-family="'Courier New',monospace" font-size="12" fill="#e6edf3">= </text>
+  <text x="125" y="106" font-family="'Courier New',monospace" font-size="12" fill="#9ECBFF">"Ekambaranath Tirunagiri"</text>
+  <text x="44" y="122" font-family="'Courier New',monospace" font-size="12" fill="#B392F0">pronouns</text>
+  <text x="130" y="122" font-family="'Courier New',monospace" font-size="12" fill="#e6edf3">= </text>
+  <text x="145" y="122" font-family="'Courier New',monospace" font-size="12" fill="#9ECBFF">"he/him"</text>
+  <text x="44" y="138" font-family="'Courier New',monospace" font-size="12" fill="#B392F0">location</text>
+  <text x="130" y="138" font-family="'Courier New',monospace" font-size="12" fill="#e6edf3">= </text>
+  <text x="145" y="138" font-family="'Courier New',monospace" font-size="12" fill="#9ECBFF">"India 🇮🇳"</text>
+
+  <text x="44" y="158" font-family="'Courier New',monospace" font-size="12" fill="#444c56"># focus</text>
+  <text x="44" y="175" font-family="'Courier New',monospace" font-size="12" fill="#B392F0">focus</text>
+  <text x="105" y="175" font-family="'Courier New',monospace" font-size="12" fill="#e6edf3">= </text>
+  <text x="120" y="175" font-family="'Courier New',monospace" font-size="12" fill="#9ECBFF">["Core ML", "LLMs &amp; Fine-tuning", "RAG", "Agentic AI"]</text>
+  <text x="44" y="192" font-family="'Courier New',monospace" font-size="12" fill="#B392F0">stack</text>
+  <text x="105" y="192" font-family="'Courier New',monospace" font-size="12" fill="#e6edf3">= </text>
+  <text x="120" y="192" font-family="'Courier New',monospace" font-size="12" fill="#9ECBFF">["Python", "PyTorch", "HuggingFace 🤗", "LangChain"]</text>
+  <text x="44" y="209" font-family="'Courier New',monospace" font-size="12" fill="#B392F0">building</text>
+  <text x="120" y="209" font-family="'Courier New',monospace" font-size="12" fill="#e6edf3">= </text>
+  <text x="135" y="209" font-family="'Courier New',monospace" font-size="12" fill="#9ECBFF">"Self-healing AI · Causal agents · Legal LLMs"</text>
+</svg>
