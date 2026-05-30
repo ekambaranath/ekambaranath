@@ -1,23 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0a0c10,10,0f1117,90,4FC3F7,100,A78BFA&height=200&section=header&text=Ekambaranath%20Tirunagiri&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=ML%20Engineer%20%C2%B7%20AI%20Researcher%20%C2%B7%20Builder&descSize=15&descColor=8892a4&descAlignY=72" width="100%"/>
+<h1 style="font-size:2.5rem; font-weight:700; letter-spacing:-0.02em;">Ekambaranath Tirunagiri</h1>
+
+<p style="color:#6b7a90; font-size:0.9rem; letter-spacing:0.1em;">ML ENGINEER &nbsp;·&nbsp; AI RESEARCHER &nbsp;·&nbsp; BUILDER</p>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekamtirunagiri)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-ekambaranathportfolio.netlify.app-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ekambaranathportfolio.netlify.app/)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-ekambaranath-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekambaranath)
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/ekamtirunagiri">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://ekambaranathportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-%234FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://github.com/ekambaranath">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+<!-- Currently Building Tags -->
+![](https://img.shields.io/badge/⬤%20Fine--tuning%20Llama%203%20for%20Legal%20NLP-0d1117?style=flat-square&labelColor=0d1117&color=0d1117&logoColor=4FC3F7)&nbsp;
+![](https://img.shields.io/badge/⬤%20Self--Healing%20RAG%20Systems-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)&nbsp;
+![](https://img.shields.io/badge/⬤%20Causal%20Reasoning%20Agents-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)&nbsp;
+![](https://img.shields.io/badge/⬤%20Multi--Agent%20Simulation-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
 
 <br/>
 
-![](https://img.shields.io/badge/%E2%97%8F%20Fine--tuning%20Llama%203%20for%20Legal%20NLP-%230f1117?style=flat-square&labelColor=0f1117&color=4FC3F7&logoColor=4FC3F7)&nbsp;
-![](https://img.shields.io/badge/%E2%97%8F%20Self--Healing%20RAG%20Systems-%230f1117?style=flat-square&labelColor=0f1117&color=2DD4BF)&nbsp;
-![](https://img.shields.io/badge/%E2%97%8F%20Causal%20Reasoning%20Agents-%230f1117?style=flat-square&labelColor=0f1117&color=A78BFA)&nbsp;
-![](https://img.shields.io/badge/%E2%97%8F%20Multi--Agent%20Simulation-%230f1117?style=flat-square&labelColor=0f1117&color=FB923C)
-
-<br/>
-
-![](https://img.shields.io/badge/Core%20ML%20%E2%86%92%20LLMs%20%26%20Fine--tuning%20%E2%86%92%20RAG%20%E2%86%92%20Agentic%20AI-0f1117?style=flat-square&labelColor=161b24&color=161b24)
+`Core ML` &nbsp;→&nbsp; `LLMs & Fine-tuning` &nbsp;→&nbsp; `RAG` &nbsp;→&nbsp; `Agentic AI`
 
 </div>
 
@@ -143,7 +153,7 @@ Exploring RLHF & DPO alignment techniques, LoRA / QLoRA efficient fine-tuning, a
 <tr>
 <td width="50%">
 
-**[🩺 selfHealingRAG](https://github.com/ekambaranath/selfHealingRAG)**&nbsp; ![](https://img.shields.io/badge/★%20Featured-FBBF24?style=flat-square&labelColor=1c1400&color=1c1400)
+**[🩺 selfHealingRAG](https://github.com/ekambaranath/selfHealingRAG)** &nbsp; ![](https://img.shields.io/badge/★%20Featured-FBBF24?style=flat-square&labelColor=1c1400&color=1c1400)
 
 RAG pipeline with built-in self-healing — detects retrieval failures and autonomously corrects them.
 
@@ -152,7 +162,7 @@ RAG pipeline with built-in self-healing — detects retrieval failures and auton
 </td>
 <td width="50%">
 
-**[🕵️ causal\_RCA\_Agent](https://github.com/ekambaranath/causal_RCA_Agent)**&nbsp; ![](https://img.shields.io/badge/★%20Featured-FBBF24?style=flat-square&labelColor=1c1400&color=1c1400)
+**[🕵️ causal\_RCA\_Agent](https://github.com/ekambaranath/causal_RCA_Agent)** &nbsp; ![](https://img.shields.io/badge/★%20Featured-FBBF24?style=flat-square&labelColor=1c1400&color=1c1400)
 
 Agentic root cause analysis using causal inference graphs — autonomously diagnoses complex system failures.
 
@@ -163,7 +173,7 @@ Agentic root cause analysis using causal inference graphs — autonomously diagn
 <tr>
 <td width="50%">
 
-**[🌐 emergentSocietySimulator](https://github.com/ekambaranath/emergentSocietySimulator)**&nbsp; ![](https://img.shields.io/badge/★%20Featured-FBBF24?style=flat-square&labelColor=1c1400&color=1c1400)
+**[🌐 emergentSocietySimulator](https://github.com/ekambaranath/emergentSocietySimulator)** &nbsp; ![](https://img.shields.io/badge/★%20Featured-FBBF24?style=flat-square&labelColor=1c1400&color=1c1400)
 
 Multi-agent simulation where LLM-driven agents develop emergent social norms, economies, and behaviors.
 
@@ -205,8 +215,6 @@ Conversational chatbot with RAG backbone — retrieves context dynamically for a
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f1117,80,4FC3F7,100,A78BFA&height=100&section=footer&fontSize=14&fontColor=8892a4" width="100%"/>
 
 *"Build systems that learn, adapt, and reason — not just predict."*
 
